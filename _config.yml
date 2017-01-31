@@ -1,7 +1,7 @@
 ### your site title here
 
-title: Michael's Blog!
-baseurl: /2701 
+title: 2701 ~
+baseurl: /2701
 email: mcg79@cornell.edu
 
 
@@ -29,7 +29,7 @@ compress_html:
   blanklines: false
   profile: false
   startings: []
-  
+
 
 sass:
  style: compressed
